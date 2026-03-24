@@ -4,7 +4,7 @@
 
 格式基于 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.0.0/)。
 
-## [0.1.0] - 2026-03-23
+## [0.1.0] - 2026-03-24
 
 ### 新增
 
@@ -21,6 +21,8 @@
 - 使用手册框架 (docs/使用手册.md)
 - 开发指南框架 (docs/开发指南.md)
 - 配置说明框架 (docs/配置说明.md)
+- update-docs 自定义命令 (Claude Code skill)
+- PyWebIO 添加到工具栈 (GUI 框架)
 
 ### 规划中
 

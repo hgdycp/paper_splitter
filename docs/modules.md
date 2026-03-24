@@ -7,7 +7,7 @@
 ## 目录结构
 
 ```
-pdf_to_cn/
+paper_splitter/
 ├── src/                    # 源代码目录
 ├── config/                 # 配置文件目录
 ├── tests/                  # 测试目录
