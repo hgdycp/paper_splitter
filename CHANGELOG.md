@@ -24,9 +24,12 @@
 - update-docs 自定义命令 (Claude Code skill)
 - PyWebIO 添加到工具栈 (GUI 框架)
 
+### 已完成
+
+- [x] PDF处理模块实现 (src/pdf_processor.py)
+
 ### 规划中
 
-- [ ] PDF处理模块实现
 - [ ] 图像处理模块实现
 - [ ] 题目检测模块实现
 - [ ] 分割输出模块实现
